@@ -1,4 +1,4 @@
-const $ = require("jquery");
+const $ = window.$;
 import { BaseConfig } from "../../BaseConfig";
 import { IIIFEvents } from "../../IIIFEvents";
 import { Dialogue } from "../uv-shared-module/Dialogue";

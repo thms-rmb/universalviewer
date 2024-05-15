@@ -1,4 +1,4 @@
-const $ = require("jquery");
+const $ = window.$;
 import { isVisible } from "../../../../Utils";
 import { BaseConfig } from "../../BaseConfig";
 import { IIIFEvents } from "../../IIIFEvents";

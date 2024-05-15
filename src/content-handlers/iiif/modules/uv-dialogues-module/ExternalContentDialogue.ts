@@ -1,4 +1,4 @@
-const $ = require("jquery");
+const $ = window.$;
 import { IIIFEvents } from "../../IIIFEvents";
 import { Config } from "../../extensions/uv-openseadragon-extension/config/Config";
 import { Dialogue } from "../uv-shared-module/Dialogue";

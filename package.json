@@ -1,5 +1,5 @@
 {
-  "name": "universalviewer",
+  "name": "@thms-rmb/universalviewer",
   "version": "4.0.25",
   "description": "The Universal Viewer is a community-developed open source project on a mission to help you share your 📚📜📰📽️📻🗿 with the 🌎",
   "engines": {
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/universalviewer/universalviewer.git"
+    "url": "git+https://github.com/thms-rmb/universalviewer.git"
   },
   "keywords": [
     "IIIF",
@@ -43,9 +43,9 @@
   "author": "@edsilv",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/universalviewer/universalviewer/issues"
+    "url": "https://github.com/thms-rmb/universalviewer/issues"
   },
-  "homepage": "https://github.com/universalviewer/universalviewer",
+  "homepage": "https://github.com/thms-rmb/universalviewer",
   "devDependencies": {
     "@types/jest": "22.2.2",
     "@types/jquery": "^3.5.14",
@@ -107,7 +107,6 @@
     "esbuild": "^0.13.12",
     "esbuild-plugin-less": "^1.1.5",
     "esbuild-plugin-svg": "^0.1.0",
-    "jquery": "3.5.0",
     "jsviews": "0.9.83",
     "less-plugin-clean-css": "^1.5.1",
     "manifesto.js": "4.2.17",
