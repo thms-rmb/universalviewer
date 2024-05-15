@@ -41,13 +41,13 @@ A community-developed open source project on a mission<br/> to help you share yo
 
 ## 🌐 Website
 
-[Visit the UV demo page](https://uv.netlify.app) to try it out.
+[Visit the UV demo page](https://universalviewer.dev) to try it out.
 
-## 📖 Scope
+<!-- ## 📖 Scope
 
-Read more [about the Universal Viewer](https://github.com/UniversalViewer/universalviewer/wiki/About)
+Read more [about the Universal Viewer](https://github.com/UniversalViewer/universalviewer/wiki/About) -->
 
-## 💻 Getting Started
+## 📖 Getting Started
 
 See the [examples](https://github.com/UniversalViewer/universalviewer/wiki/UV-Examples) for how to use the UV in various scenarios.
 
@@ -58,8 +58,8 @@ Read the [docs](https://docs.universalviewer.io/) to learn about the various UV 
 Read below to learn how to take part in improving the UV:
 
 - Fork the repository and [run the examples from source](#-getting-started)
-- Get familiar with [Code of Conduct](CODE_OF_CONDUCT.md)
-- Read our [guide to contributing](CONTRIBUTING.md)
+- Get familiar with [Code of Conduct](https://github.com/UniversalViewer/universalviewer/blob/main/CODE_OF_CONDUCT.md)
+- Read our [guide to contributing](https://github.com/UniversalViewer/universalviewer/blob/main/CONTRIBUTING.md)
 - Find an issue to work on and submit a pull request
   - First time contributing to open source? Pick a [good first issue](https://github.com/universalviewer/universalviewer/labels/good%20first%20issue) to get you familiar with GitHub contributing process.
   - First time contributing to the UV? Pick a [beginner friendly issue](https://github.com/universalviewer/universalviewer/labels/beginners) to get you familiar with codebase and our contributing process.
@@ -84,7 +84,7 @@ Read our [Accessibility Statement](https://github.com/UniversalViewer/universalv
 
 ## 📣 Feedback
 
-Read below how to engage with the UV [community](COMMUNITY_TEAM.md):
+Read below how to engage with the UV [community](https://github.com/UniversalViewer/universalviewer/blob/main/COMMUNITY_TEAM.md):
 
 - Join the discussion on [Slack](http://universalviewer.io/#contact).
 - Ask a question, request a new feature and file a bug with [GitHub issues](https://github.com/universalviewer/universalviewer/issues/new).
